@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MercedesJimenez
+- 👀 I’m interested in frontend and mobile dveloper
+- 🌱 I’m currently learning angular
